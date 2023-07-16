@@ -1,3 +1,2 @@
-# html
-This is where i will upload my html files
-I finished the catphotoapp html file in freecodecamp
+# catphotoapp
+this is a catphoto website which i written in html in freecodecamp 
